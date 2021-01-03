@@ -16,5 +16,10 @@
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/datagy/pandas-lil-helper"
+      },
+    "homepage": "https://github.com/datagy/pandas-lil-helper/blob/master/README.md"
 }
