@@ -1,0 +1,20 @@
+{
+    "name": "pandaslilhelper",
+    "displayName": "Pandas lil Helper",
+    "description": "Helpful tools to make Python's Pandas a lil bit easier.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "python",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
