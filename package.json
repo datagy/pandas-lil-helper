@@ -2,7 +2,7 @@
     "name": "pandaslilhelper",
     "displayName": "Pandas lil Helper",
     "description": "Helpful tools to make Python's Pandas a lil bit easier.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -20,7 +20,7 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/datagy/pandas-lil-helper"
-      },
+    },
     "homepage": "https://github.com/datagy/pandas-lil-helper/blob/master/README.md",
     "publisher": "datagy",
     "icon": "https://datagy.io/wp-content/uploads/2021/01/pandas-lil-helper.png"
