@@ -4,13 +4,22 @@
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+### Reassign Columns
 
-For example if there is an image subfolder under your extension project workspace:
+Easily reassign Pandas columns using *ra*. You can name your dataframe (which defaults to *df*) and the column.
 
-\!\[feature X\]\(images/feature-x.png\)
+![Pandas Reassign](https://datagy.io/wp-content/uploads/2021/01/pandas-lil-helper-reassign.gif)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+### Filter Pandas Dataframes
+
+Use this to filter your Pandas dataframes (with 1, 2, or 3 conditions). You can name your dataframe, select different amounts of conditions, and different boolean expressions.
+
+To create different numbers of conditions, use:
+* cond1: 1 condition, 
+* cond2: 2 conditions,
+* cond3: 3 conditions.
+
+![Pandas Filter](https://datagy.io/wp-content/uploads/2021/01/pandas-lil-helper-filter.gif)
 
 ## Requirements
 

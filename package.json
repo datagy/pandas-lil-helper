@@ -21,5 +21,7 @@
         "type": "git",
         "url": "https://github.com/datagy/pandas-lil-helper"
       },
-    "homepage": "https://github.com/datagy/pandas-lil-helper/blob/master/README.md"
+    "homepage": "https://github.com/datagy/pandas-lil-helper/blob/master/README.md",
+    "publisher": "datagy",
+    "icon": "https://datagy.io/wp-content/uploads/2021/01/pandas-lil-helper.png"
 }
